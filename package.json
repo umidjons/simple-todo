@@ -12,10 +12,10 @@
   "author": "umidjons",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^3.3.7",
     "express": "^4.16.2"
   },
   "devDependencies": {
+    "@angular/cli": "^1.4.7",
     "nodemon": "^1.12.1"
   }
 }
